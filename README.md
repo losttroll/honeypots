@@ -2,6 +2,10 @@
 
 This is an export of information from a few honeypots
 
+### More info at:
+A honeybot will Tweet about some of the sources: https://twitter.com/ShoestringSoc
+And most are reported to AbuseIPDB: https://www.abuseipdb.com/user/52708
+
 ## Internet Noise Lists
 Collection of lists focusing on internet-wide scans.  Blocking these sources may help to reduce load on the exposed service.
 
