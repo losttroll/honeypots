@@ -10,7 +10,7 @@ This is a list of sources that have had 10+ failed logins in the past 30 days. C
 https://github.com/losttroll/honeypots/blob/master/ssh_ips_last30days.txt
 
 ## Credential Lists
-These are usernames and passwords used in internet-wide brute force attacks. Audit exposesd services - if they really need to be on the Internet.
+These are usernames and passwords used in internet-wide brute force attacks. Use these lists to audit exposesd services - if they really need to be on the Internet.
 
 ### SSH Brute Force Passwords
 List of the most common passwords in the past 30 days. Ordered from most frequently used to least.
