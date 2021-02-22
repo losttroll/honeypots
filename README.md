@@ -19,3 +19,7 @@ These are usernames and passwords used in internet-wide brute force attacks. Use
 ### SSH Brute Force Passwords
 List of the most common passwords in the past 30 days. Ordered from most frequently used to least.
 https://github.com/losttroll/honeypots/blob/master/ssh_top_passwords_last30days.txt
+
+### SSH Top Credentials
+Most frequently used username / password combinations seen in the last 30 days.  While a majority use root for the username, there are others that may be overlooked.
+https://github.com/losttroll/honeypots/blob/master/ssh_top_credentials_last30days.txt
